@@ -1,0 +1,24 @@
+{
+  "name": "temp-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Q2Gems/temp-node-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Q2Gems/temp-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/Q2Gems/temp-node-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
